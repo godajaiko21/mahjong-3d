@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-mahjong3d-dev-201458-authRole",
+            "UnauthRoleArn": "arn:aws:iam::623135927384:role/amplify-mahjong3d-dev-201458-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::623135927384:role/amplify-mahjong3d-dev-201458-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-mahjong3d-dev-201458-deployment",
+            "UnauthRoleName": "amplify-mahjong3d-dev-201458-unauthRole",
+            "StackName": "amplify-mahjong3d-dev-201458",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:623135927384:stack/amplify-mahjong3d-dev-201458/2a76a280-926a-11ed-ba1e-0e696ac94747",
+            "AmplifyAppId": "d2jvhzitc31m4o"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d2jvhzitc31m4o",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
